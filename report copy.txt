@@ -1,0 +1,225 @@
+   |-Administration (Active)
+   |---Conributor Attribution
+   |---Departments
+   |-----Evangelism
+   |-----Finance
+   |-------Budget
+   |-------Employees
+   |-----IT - Office of CTO
+   |-------IT Working Folder
+   |-------Resources
+   |---------Developer Platforms
+   |---------Tools
+   |---------Tools (CAD)
+   |---------Tools (Software IDEs)
+   |-------Website
+   |---------General Space News
+   |---------wiki
+   |-----Licensing
+   |---Founding Documents Archive
+   |---Members
+   |-----Contributors
+   |-----Gurus
+   |-----Officer Nominations
+   |-----Participants
+   |---Office of the Chairman
+   |---Office of the Vice-Chairman
+   |-Archive
+   |-Questions Without Answers
+   |-Suggestions to Improve Mars-One
+   |-The Product
+   |---A Start - Forming A Space Entity
+   |-----Staffing
+   |---Administration
+   |-----Conributor Attribution
+   |-----Departments
+   |-------Evangelism
+   |-------Finance
+   |---------Budget
+   |---------Employees
+   |-------IT - Office of CTO
+   |---------Tools
+   |---------Tools (CAD)
+   |-------Licencing
+   |-----Members
+   |-------Contributors
+   |-------Gurus
+   |-------Officer Nominations copy
+   |-------Participants
+   |-----Vision of Success
+   |-----Website
+   |-------wiki
+   |---Divisions - VES - Field - Etc.
+   |-----0-Research (Past Events)
+   |-------Document Dump
+   |---------Wikipedia.org - Document Dump
+   |-------Fuel
+   |-------History of Space Travel
+   |-------Licensing
+   |-------Mars-One
+   |-------Private Space Entities
+   |-------Sovereign Space Entities
+   |---------China's Nationcal Space Agency (CNSA)
+   |---------European Space Agency (ESA)
+   |---------Indian Space Research Organization (ISRO)
+   |---------Japan - JAXA
+   |---------Other Sovereign Space Entities
+   |-----------Iranian Space Agency (ISA)
+   |-----------Israeli Space Agency (ISA)
+   |-----------Italian Space Agency (ASI)
+   |---------USA - NASA
+   |-------Space-Capable Contractors
+   |---------Boeing
+   |---------Northrup Grummond
+   |-----1-Visitation
+   |-------Command Software
+   |-------Fuel
+   |-------Hardware Modules
+   |---------From Scratch (Good Luck)
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |---------OTS w: Retrofit
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |---------Off The Shelf (OTS)
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |---------Original Designs (Un-Licencensed)
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |-------Nutrition
+   |-----2-Exploration
+   |-------Command Software
+   |-------Fuel copy
+   |-------Hardware Modules
+   |---------From Scratch (Good Luck)
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |---------OTS w: Retrofit
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |---------Off The Shelf (OTS)
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |---------Original Designs (Un-Licencensed)
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |-------Touchdown on Mars
+   |-----3-Settlement
+   |-------Agriculture
+   |-------Command Software
+   |-------Ecology
+   |-------Fuel copy 2
+   |-------Hardware Modules
+   |---------From Scratch (Good Luck)
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |---------OTS w: Retrofit
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |---------Off The Shelf (OTS)
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |---------Original Designs (Un-Licencensed)
+   |-----------Control Software
+   |-------------From Scratch (Good Luck)
+   |-------------OTS w: Retrofit
+   |-------------Off The Shelf (OTS)
+   |-------------Original Designs (Un-Licencensed)
+   |-----4-Science
+   |-------Astronomy
+   |---------Future Launch Windows
+   |-------Astrophysics
+   |-------Biology
+   |---------Agricultural
+   |---------Human
+   |---------Medicine
+   |---------Non-Human
+   |-------Chemistry
+   |-------Fuel
+   |-------Geology
+   |-------Materials Sourcing
+   |-------Physics
+   |-------Radiation Shielding
+   |-----5-Engineering
+   |-------Fuel
+   |-------Hardware
+   |---------Accessories
+   |-----------Flashlight
+   |---------Airlocks
+   |---------Bedding
+   |---------Capsules
+   |---------Electronics
+   |---------Hardware Modules [Template]
+   |-----------From Scratch (Good Luck)
+   |-------------Control Software
+   |---------------From Scratch (Good Luck)
+   |---------------OTS w: Retrofit
+   |---------------Off The Shelf (OTS)
+   |---------------Original Designs (Un-Licencensed)
+   |-----------OTS w: Retrofit
+   |-------------Control Software
+   |---------------From Scratch (Good Luck)
+   |---------------OTS w: Retrofit
+   |---------------Off The Shelf (OTS)
+   |---------------Original Designs (Un-Licencensed)
+   |-----------Off The Shelf (OTS)
+   |-------------Control Software
+   |---------------From Scratch (Good Luck)
+   |---------------OTS w: Retrofit
+   |---------------Off The Shelf (OTS)
+   |---------------Original Designs (Un-Licencensed)
+   |-----------Original Designs (Un-Licencensed)
+   |-------------Control Software
+   |---------------From Scratch (Good Luck)
+   |---------------OTS w: Retrofit
+   |---------------Off The Shelf (OTS)
+   |---------------Original Designs (Un-Licencensed)
+   |---------Materials Sourcing
+   |---------Waste Recycling
+   |---------Workout Equipment
+   |-------Open Hardware
+   |---------Parallella - Epiphany 16 & 64
+   |-------Software
+   |---------Command Software - TOMPCat
+   |-----6-Experts
+   |-----7-Astronaut Selection
+   |-------Alcohol Abuse
+   |-------Drug Abuse
+   |-------Psycological Profiling
+   |-------Statistical Abnormalities
+   |-----8-Project Audit
+   |-----9-Research (Future Technology)
