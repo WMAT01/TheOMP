@@ -167,10 +167,15 @@ Visitation, Exploration, & Settlement
 
 In this way, the Executive Board is comprised of 6 orthogonal sub-committees of three people , stage-wise and type-wise:
 
-			Visitation	Exploration	Settlement
-Science
-Engineering
-Stage Expertise	
+			              Visitation  	  Exploration 	   Settlement
+================|=================|===============|===============|       
+Science		      |                 |               |               |
+----------------|-----------------|---------------|---------------|
+Engineering		  |                 |               |               |
+----------------|-----------------|---------------|---------------|
+Stage Expertise	|                 |               |               |
+----------------|-----------------|---------------|---------------|
+
 
 Definition of Scope:
 
