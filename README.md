@@ -5,7 +5,7 @@
 
 ## Mission Statement:
 
-Create a platform for the future Visitation, Exploration, & Settlement (VES) of Mars by Crowd-Sourcing a Stem-to-Stern Plan, leveraging public domain records , Open Source Technology, and the free-time of students, enthusiasts, academics, professionals, and retirees. We seek to establish and maintain a rising platform, upon which all can stand, so that no Mars Mission is less than successful but also that so many more can exceed expectations. If the public raises the low-bar everyone will go higher!
+Create a platform for the future **Visitation, Exploration, & Settlement (VES) of Mars** by Crowd-Sourcing a Stem-to-Stern Plan, leveraging public domain records, Open Source Technology, and the spare-time of students, enthusiasts, academics, professionals, and retirees. We seek to establish and maintain a rising platform, upon which all can stand, so that **no Mars Mission is less than successful** but also that so many more can exceed expectations. If the public raises the low-bar everyone will go higher!
 
 ## Our 21st Century Opportunity:
 
@@ -14,7 +14,7 @@ Create a platform for the future Visitation, Exploration, & Settlement (VES) of 
 	⁃	is our best chance to spread humanity in to space, for at least the next century.
 	⁃	is not the Moon, and will have strategic value for countries, multi-national corporations, and research institutions.
 
-### Mars-One…
+### Mars-One, SpaceX, etc…
 	⁃	is bold but What about Mars-Two? Mars-Three? Mars-Year2149?
 	⁃	may not be the best approach… or even close. What would you improve?
 	⁃	will teach us lessons which should be learned ASAP, no matter what.
