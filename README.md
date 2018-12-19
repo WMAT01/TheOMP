@@ -1,7 +1,7 @@
-![# The Open Mars Project
-###### “If the public raises the low-bar, everyone will go higher!” -TOMP, July 1, 2013](/images/TOMPlogo.png)
+![GitHub Logo](/images/TOMPlogo.png)
 
-
+# The Open Mars Project
+###### “If the public raises the low-bar, everyone will go higher!” -TOMP, July 1, 2013
 
 ## Mission Statement:
 
