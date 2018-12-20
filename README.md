@@ -93,7 +93,7 @@ Create a platform for the future **Visitation, Exploration, & Settlement (VES) o
 
 ==========
 
-#### 04-Open Source Resources
+## 04-Open Source Resources
 1. Linux
 	* Ubuntu 18.04 LTS
 	* Arch Linux (with RealTime Kernel Extension)
