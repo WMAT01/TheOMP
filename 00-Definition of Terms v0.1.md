@@ -8,6 +8,7 @@ TERM | Definition
 **TheOMP** | The Project
 **AnOMP** | Any fork/implementation of **TheOMP**
 **TOMPL** | TheOMP License
+**TOMP “Attribution for Contributors” (TOMPAC)** | See 05-Licensing
 
 
 

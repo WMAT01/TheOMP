@@ -1,4 +1,4 @@
-![](/images/TOMPlogo.png)
+![TheOMP Logo](/TheOMPlogo.png)
 
 # The Open Mars Project
 ###### “If the public raises the low-bar, everyone will go higher!” -TOMP, July 1, 2013
@@ -30,13 +30,13 @@
 ###### ( [ ] - denotes folder)
 00. Definition of Terms
 01. Mission Statement (Included below)
-02. The Founding Principles (Included below)
+02. Founding Principles (Included below)
 03. Vision of Success (Included below)
 04. Open Source Resources
 05. Licensing Explained
-06. Participation Guidelines (Voting)
+06. Participation Guidelines
 07. Governance & Voting
-08. Arguments Against
+08. Arguments Against TheOMP
 09. Questions
 10. [Administration] <-- Of everything below
 11. [ ]
