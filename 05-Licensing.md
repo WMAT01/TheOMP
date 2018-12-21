@@ -15,3 +15,46 @@ TOMPAC, in the next decades will be managed by the organization in a fair and no
 * Our intent is that no individual or entity gain undue compensation or advantage as a result of the contribution of others.
 * Our intent is not to furnish any named member with anything other than due-compensation, upon review of the Board of Governance, the Contributors, and the participants at large, should a 4/5ths vote be called.
 * This is all very boring but will be settled soon.
+
+Licensing: The Multi-Pronged Approach:
+
+
+
+
+
+
+
+
+
+Sourcing: We Need A Flashlight
+
+Possible solutions:
+
+JAM: Just Add Money |p———p———p———p———p———p| DIY: Do-It-Yourself
+
+
+
+JAM
+|
+|—Buy a flashlight Pack w/ Batteries 				(Turn-Key Solution)
+|
+|—Buy a flashlight & Buy Batteries				(Riskier, Two Two-Turn-Key Solution)
+|
+|—Buy a flashlight & Publish an Interface Request (IR)
+|	for Batteries							(Turn-Key & Anchor)
+|
+|—Publish Component Request, IR for a Flashlight, & 
+	IR for Batteries						(IR with Anchored Request)
+|
+|—Publish Component Request for Flashlight			(No Progress)
+|
+|—Design a better Flashlight & defer to existing 
+|	battery technologies						(May be best)
+|
+|—Design a new combination Flashlight & Battery		(TOMP Licensing)
+|
+DIY							
+
+
+
+
