@@ -12,7 +12,7 @@ Governance (proposed):
 * CLO: 	Chief Licensing Officer		(The Whip)
 * CFO: 	Chief Financial Officer 	(Cost-Cutter)
 
-These individuals are charged with the foundation and continued development of the project, to serve its Mission Statement in the interest of the current Vision of Success.
+These individuals are charged with the foundation and continued development of the project, to serve its Mission Statement in the interest of the current Vision of Success. They are elected by the Executive Board (see below).
 
 ## Technical Divisions:
 
@@ -35,21 +35,21 @@ Science | | |
 Engineering | | | 
 Stage Expertise	| | |
 
-### Executive Board:
+### Executive Board (EB9):
 ###### (elected annually - Jul 1st)
 
-Consists of nine (9) individuals.
+Consists of nine (9) heads of the nine Technical Departments.
 
-Three (3) individuals in the fields:
-Science, Engineering, or Stage Expertise
 
-for each the 3 stages:
-Visitation, Exploration, & Settlement
+In this way, the Executive Board is comprised of 6 orthogonal Sub-Committees of three people, Division-wise and Department-wise:
+* Visitation
+* Exploration
+* Settlement
+* Science
+* Engineering
+* Stage Expertivse
 
-In this way, the Executive Board is comprised of 3 orthogonal sub-committees of three people, stage-wise and type-wise:
 
-Each intersection of these intersections has an Executive Board Member.
-Chairman & Vice-Chairman:
 Those, the 4 Officers, plus the EB9, Comprise a 13 Member Board who elect a Vice-Chairman and then Chairman. The Chairman has the powers vested in the Chief Executive Officer of the Organization. The serves as Chief-of-Staff & Interim.
 
 [For the purpose of any forked project, the Chairman & Vice-Chairman section can serve as entry points for control: the head of your project & his deputy; the powers therein can be changed here.]
