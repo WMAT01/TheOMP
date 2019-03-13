@@ -1,0 +1,114 @@
+a { color: #99ccff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+a.nav { color:#FFF; }
+
+form {
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+  font-size: 10pt
+ }
+
+	input.text{
+				margin-left:1px;
+				font-size:10pt;
+				font-weight:normal;
+				background-color:#666666;
+				color:#FFFFFF}
+		input.text2{
+				font-size:10pt;
+				font-weight:normal;
+				vertical-align: middle;
+				background-color:#ffffff;
+				padding: 0px
+				}
+		input.text3{
+				margin-right: 1px;
+				padding: 0px;
+				vertical-align: middle;
+				}				
+	body{
+			font-family: Arial;
+			font-size:10pt;
+			font-weight:normal;
+			text-align:center;
+	}
+	
+	#global_wrapper { color:#FFF; }
+	#global_wrapper td { color:#FFF; }
+	
+	table.headerbuttons{
+				vertical-align:top
+		}
+	table.header{
+			border-width: 0px 0px 0px 0px;
+			border-spacing: 0px;
+			border-style: none none none none;
+			border-collapse: collapse;
+			border-color:#FFFFFF;
+			background-color:#000000;
+			margin-left:auto;
+			margin-right:auto;
+			width: 952px
+	}					
+table.header td{
+	border-width: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	border-style: none none none none;
+	border-color: gray gray gray gray;
+	background-color: black;
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+
+	table.mainbody{
+			margin-top: 5px;
+			margin-bottom: 5px;
+			border-left:0px;
+			border-right:0px;
+			border-top:0px;
+			border-bottom:0px;
+			border-spacing: 0px 0px 0px 0px;
+			border-collapse: collapse;
+			background-color:#333333;
+			margin-left:auto;
+			margin-right:auto;
+			width: 952px
+	}
+	
+	table.footer{
+			border-width: 0px 0px 0px 0px;
+			border-spacing: 0px;
+			border-style: none none none none;
+			border-collapse: collapse;
+			border-color:#FFFFFF;
+			background-color:#000000;
+			margin-left:auto;
+			margin-right:auto;
+			width: 952px;
+			height: 98px;
+			color: #C0C0C0;
+			font-family: Arial;
+			font-size:8pt;
+			font-weight:normal
+	}
+	
+	#resources{
+			
+			font-family: Arial;
+			font-size:10pt;
+			font-weight:normal;
+			text-align:left;
+			color:#FFFFFF	
+	}
+	
+	#taskTable th { padding:4px 0; font-size:14px; font-weight:bold; background-color:#0066B3; }
+	#taskTable td { padding:3px 5px; font-size:12px; background-color:#C0C0C0; color:#000; }
+	#taskTable td a { color:blue; } 
+	
+	#maintable table {border:thin; border-collapse:collapse; font-size:small; }
+	#maintable td { font-size:12px; color:#000; }
+	#maintable th { font-size:12px; color:#FFF; }
+	#maintable td a {color:#003399; font-weight:bold}
+	#maintable th a {color:#FFF; font-weight:bold}
+	#maintable a:hover { background-color:#FFCC00; color:#660000 }
